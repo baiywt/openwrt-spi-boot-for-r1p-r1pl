@@ -1,0 +1,10 @@
+CONFIG_TARGET_rockchip=y
+CONFIG_TARGET_rockchip_armv8spi=y
+CONFIG_TARGET_rockchip_armv8spi_DEVICE_xunlong_orangepi-r1-plus=y
+# CONFIG_PACKAGE_dnsmasq is not set
+CONFIG_PACKAGE_dnsmasq-full=y
+CONFIG_LUCI_LANG_zh_Hans=y
+CONFIG_PACKAGE_luci-app-mwan3=y
+CONFIG_PACKAGE_kmod-ipt-nat6=y
+CONFIG_PACKAGE_kmod-nf-nat6=y
+CONFIG_PACKAGE_kmod-usb-serial-option=y
